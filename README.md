@@ -22,7 +22,7 @@ Below is an example of how you can instruct your audience on installing and sett
    ```
 5. Click 'E2E Testing'
 
-![PICTURE](C:\Users\63915\simplyhired_Automation\Pictures\e2e testing.png)
+![alt text](https://drive.google.com/file/d/13P4ZOFh4j2SwfzeD_tlpt7PjLe_sySEz/view?usp=drive_link)
 
 6. Choose 'Chrome' as a Browser, then click 'Start E2E Testing in Chrome'
 7. Under E2E specs, click 'simplyhired_script.js'
