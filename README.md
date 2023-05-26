@@ -20,13 +20,17 @@ Below is an example of how you can instruct your audience on installing and sett
    ```sh
    npx cypress open
    ```
-5. Click 'E2E Testing'
 
+5. Click 'E2E Testing'
 ![alt text](Pictures/e2e%20testing.png)
 
 6. Choose 'Chrome' as a Browser, then click 'Start E2E Testing in Chrome'
+![alt text](Pictures/choose%20browser.png)
+
 7. Under E2E specs, click 'simplyhired_script.js'
+![alt text](Pictures/clicking%20simplyhired.png)
 
 Once you click 'simplyhired_script.js', you will see the live automation execution for Simply Hired web application.
+![alt text](Pictures/live%20execution.png)
 
  
