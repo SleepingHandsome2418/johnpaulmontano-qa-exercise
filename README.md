@@ -21,6 +21,9 @@ Below is an example of how you can instruct your audience on installing and sett
    npx cypress open
    ```
 5. Click 'E2E Testing'
+
+![Alt text](https://drive.google.com/file/d/1Zjbf_ogigPvFN7USLy6tuMtSR_zR1pSK/view?usp=drive_link"Title")
+
 6. Choose 'Chrome' as a Browser, then click 'Start E2E Testing in Chrome'
 7. Under E2E specs, click 'simplyhired_script.js'
 
