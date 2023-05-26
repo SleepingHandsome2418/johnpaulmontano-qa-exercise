@@ -16,14 +16,14 @@ Below is an example of how you can instruct your audience on installing and sett
    ```sh
    npm install
    ```
-4. Open Cypress Test Runner
+4. Open Cypress Test Runner by entering this command in Terminal
    ```sh
    npx cypress open
    ```
 5. Click 'E2E Testing'
 6. Choose 'Chrome' as a Browser, then click 'Start E2E Testing in Chrome'
-7. Under E2e specs, click 'simplyhired_script.js'
+7. Under E2E specs, click 'simplyhired_script.js'
 
-Once done you will see the live automation execution for Simply Hired web application.
+Once you click 'simplyhired_script.js', you will see the live automation execution for Simply Hired web application.
 
  
